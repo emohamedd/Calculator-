@@ -1,6 +1,6 @@
 # Calculator-
 
-![Calculator Banner](https://via.placeholder.com/800x100)
+![Calculator Banner](https://via.placeholder.com/Calculator)
 
 A simple command line calculator program written in C.
 
@@ -14,7 +14,7 @@ Here's an example of how to run the program:
 ./calculator 5 + 6
 
 
-The above example will perform the calculation `5 + 6` and print the result `11` on the command line.
+	The above example will perform the calculation `5 + 6` and print the result `11` on the command line.
 
 ## Error Handling
 The program checks if the correct number of arguments have been provided. If less than three arguments are provided, the program will print an error message and exit with a return code of `1`.
