@@ -1,6 +1,6 @@
 # Calculator-
 
-![Calculator Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcalculator-banner.html&psig=AOvVaw1VMNTGY_4sNzgFWWorLPFb&ust=1676208654131000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPid7_zJjf0CFQAAAAAdAAAAABAE)
+![Calculator Banner](https://blog.eduonix.com/wp-content/uploads/2016/11/Basic-Calculator.jpg)
 
 A simple command line calculator program written in C.
 
